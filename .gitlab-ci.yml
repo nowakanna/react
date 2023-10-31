@@ -25,3 +25,4 @@ pages:
     expire_in: '900'
   only:
     - master # run on master branch
+    - main
